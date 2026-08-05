@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
