@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0877-stone-game) |
 ## Recursion
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
