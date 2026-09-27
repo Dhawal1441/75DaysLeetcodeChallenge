@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhawal1441/75DaysLeetcodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
